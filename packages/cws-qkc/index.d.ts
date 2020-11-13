@@ -1,4 +1,4 @@
-export default class cwsETH {
+export default class cwsQKC {
     constructor();
 
     /**
